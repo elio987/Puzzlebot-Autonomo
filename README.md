@@ -22,3 +22,5 @@ rosrun (tu paquete de ROS) traffic_detector.py
 rosrun (tu paquete de ROS) seguidor_mov.py
 ```
 - Cambia el nombre del modelo donde llamamos el modelo CNN en el signal_detector no lo olvides y si es necesario calibrar otra vez las máscaras de HSV hazlo.
+- En caso de que quieras detectar y hacer algo con las señales de fin de prohibición o la de giro a la izquierda modifica el codigo detector de señales (signal_detector.py) y el de seguidor de línea (seguir_sum_ver.py) para tomarlas en cuenta, como también el de movimiento (seguidor_mov.py) para hacer un giro a la izquerda o ir más rápido.
+- No olvides ingresar los codigos al src de tu Puzzlebot !!!
