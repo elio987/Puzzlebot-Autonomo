@@ -26,3 +26,5 @@ rosrun (tu paquete de ROS) seguidor_mov.py
 - No olvides ingresar los codigos al src de tu Puzzlebot !!!
 - Link hacia video deostrativo del funcionamiento:<br>
 https://drive.google.com/file/d/1_A2JwOrbDKLIEbJYOhIJmUWR3L3Wnr7b/view?usp=sharing
+- Si deseas una descripción más de tallada del proyecto puedes ir al reporte de Leonardo Gracida Muñoz:<br>
+https://drive.google.com/file/d/1pX_nELC5Xx-iCu0LSS3EcKA8bQNOAuXI/view?usp=sharing
