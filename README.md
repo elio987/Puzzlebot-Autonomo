@@ -1,5 +1,5 @@
 # Puzzlebot-Autonomo
-Codigos que controlan de manera autonoma, el robot Puzzlebot de la comañia manchester Robotics en una pista determinada que se muestra a continuación.
+Codigos que controlan de manera autonoma, el robot Puzzlebot de la compañia manchester Robotics en una pista determinada que se muestra a continuación.
 - La pista que vamos a completar con este codigo es la siguiente:
 ![alt text](pista.png)
 No olvides calibrar las máscaras de filtradod e colores HSV, para poder detctar el semáforo a usar como las siguientes señales de trafico:
